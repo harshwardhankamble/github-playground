@@ -1,0 +1,10 @@
+
+Name: Xoriant
+Founded on: 1990
+Industry: Product Engineering
+Name: Titan
+Founded on: 1970
+Industry: Watches
+Name: Infosys
+Founded on: 1991
+Industry: Software Services
